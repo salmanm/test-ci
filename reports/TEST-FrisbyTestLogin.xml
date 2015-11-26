@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Frisby Test: Login" errors="0" tests="1" failures="0" time="1.032" timestamp="2015-11-27T01:18:01">
+  <testcase classname="Frisby Test: Login" name="
+	[ POST https://dwmkerr.auth0.com/oauth/ro ]" time="1.03"></testcase>
+</testsuite>
+</testsuites>

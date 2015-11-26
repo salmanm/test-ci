@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Frisby Test: Get balance for 81286517815" errors="0" tests="1" failures="0" time="0.293" timestamp="2015-11-27T01:18:02">
+  <testcase classname="Frisby Test: Get balance for 81286517815" name="
+	[ GET https://tdwst.telkomsel.com/api/subscriber/profile ]" time="0.293"></testcase>
+</testsuite>
+</testsuites>

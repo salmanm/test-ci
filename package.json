@@ -1,0 +1,25 @@
+{
+  "name": "test-ci",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/jasmine-node ./",
+    "report": "./node_modules/.bin/jasmine-node ./ --junitreport"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/salmanm/test-ci.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/salmanm/test-ci/issues"
+  },
+  "homepage": "https://github.com/salmanm/test-ci#readme",
+  "dependencies": {
+    "bluebird": "^3.0.5",
+    "frisby": "0.8.5",
+    "jasmine-node": "1.14.5"
+  }
+}
