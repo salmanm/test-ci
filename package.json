@@ -18,7 +18,6 @@
   },
   "homepage": "https://github.com/salmanm/test-ci#readme",
   "dependencies": {
-    "bluebird": "^3.0.5",
     "frisby": "0.8.5",
     "jasmine-node": "1.14.5"
   }
