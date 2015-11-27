@@ -19,7 +19,7 @@ Frisby.create('Login')
       .get('https://tdwst.telkomsel.com/api/subscriber/profile')
       .expectStatus(200)
       .afterJSON(function (response) {
-        expect(response.profiles.balance).toEqual('30750');
+        expect(response.profiles.balance).toEqual('23750');
       })
       .toss();
   })
