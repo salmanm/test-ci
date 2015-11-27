@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "./node_modules/.bin/jasmine-node ./",
+    "test": "./node_modules/.bin/jasmine-node ./ --junitreport",
     "report": "./node_modules/.bin/jasmine-node ./ --junitreport --output $CIRCLE_TEST_REPORTS/junit"
   },
   "repository": {
