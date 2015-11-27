@@ -1,7 +1,7 @@
 language: node_js
 
 before_script:
-	- mkdir -p shippable/testresults
-	- mkdir -p shippable/codecoverage
+  - mkdir -p shippable/testresults
+  - mkdir -p shippable/codecoverage
 env:
-	- XUNIT_FILE=shippable/testresults
+  - XUNIT_FILE=shippable/testresults
